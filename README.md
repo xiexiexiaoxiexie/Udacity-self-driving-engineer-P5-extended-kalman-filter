@@ -1,6 +1,14 @@
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
 
+### 扩展阅读：
+
+1.卡尔曼滤波器讲解：
+https://wenku.baidu.com/view/187eecec856a561252d36f5b.html
+
+### 项目简介：
+扩展卡尔曼滤波器，运用C++将雷达数据和激光雷达数据通过卡尔曼滤波器结合起来追踪一辆自行车的位置和速度
+
 In this project you will utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower than the tolerance outlined in the project rubric. 
 
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
